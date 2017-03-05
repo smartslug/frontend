@@ -1,0 +1,33 @@
+{
+  "name": "ngmqtt",
+  "main": "./ngmqtt.js",
+  "authors": [
+    "Vasco Santos <santos.vasco10@gmail.com>"
+  ],
+  "description": "Angular service to handle an MQTT connection",
+  "keywords": [
+    "mqtt"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/vasco-santos/ngmqtt",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "_release": "18c96c2cd0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "18c96c2cd0695e72706c34edc454b29741ad7890"
+  },
+  "_source": "https://github.com/vasco-santos/ngmqtt.git",
+  "_target": "*",
+  "_originalSource": "ngmqtt",
+  "_direct": true
+}
