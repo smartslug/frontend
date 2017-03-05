@@ -1,0 +1,9 @@
+# frontend
+ng_dashboard_gruntserver
+1、重新建立了frontend文件夹，并增加了serial_socketio server文件夹
+2、在frontend文件夹中，存放了dashboard和grunt server
+
+3、frontend新增了angularsocketio模块，它是socketio在angularjs上的应用，用例在controller.js中，try.html。
+4 serial_socketio server文件夹是sockeio server一个用例。启动后可以作为frontend的socketio
+server服务器端 配合使用。
+5、此版frontend拥有mqtt client和socketio client 双功能
