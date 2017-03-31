@@ -29,7 +29,8 @@
     "pace": "~1.0.2",
     "metisMenu": "~2.0.2",
     "fontawesome": "~4.5.0",
-    "angularjs-mqtt": "*"
+    "angularjs-mqtt": "*",
+    "angular-chart.js": "^1.1.1"
   },
   "resolutions": {
     "jquery": "~2.1.4",

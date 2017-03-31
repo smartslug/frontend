@@ -27,7 +27,8 @@
         'uiSwitch',
         'ngmqtt',
         'kmqtt',
-        'socket.io'
+        'socket.io',
+        'chart.js'
     ])
 
 })();

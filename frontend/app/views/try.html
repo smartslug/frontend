@@ -14,6 +14,23 @@
         姓名2: {{firstName + " " + lastName}}
 
     </div>
+    <div ng-app="inspinia" class="container">
+        <div class="text-center aspect-ratio" id="container" ng-controller="ChartCtrl" style="xxborder:1px solid #cdcdcd;">
+            <h1>Redis updated Chart using Socket.io (POC)</h1>
+            <canvas
+                    width="1200"
+                    height="320"
+                    id="hero-bar"
+                    class="chart chart-line"
+                    chart-data="data"
+                    chart-options="options"
+                    chart-labels="labels"
+                    chart-colors="colors"
+            >
+            </canvas>
+        </div>
+    </div>
+
 
 </div>
 </div>

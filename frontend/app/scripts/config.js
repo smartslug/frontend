@@ -98,8 +98,7 @@ function config($stateProvider, $urlRouterProvider) {
         .state('index.try', {
             url: "/try",
             templateUrl: "views/try.html",
-            data: { pageTitle: '参数设置' },
-
+            data: { pageTitle: '参数设置' }
 
         })
 
